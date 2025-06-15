@@ -24,7 +24,6 @@ A Java-based desktop application to securely **encrypt**, **hide**, and **store 
 - **JDBC (Java Database Connectivity)**
 - **MySQL / PostgreSQL** (or any other RDBMS)
 - **JavaMail API** (for email/OTP)
-- **AES Encryption (javax.crypto)**
 
 ---
 
