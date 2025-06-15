@@ -28,6 +28,6 @@ A Java-based desktop application to securely **encrypt**, **hide**, and **store 
 
 ---
 
-## ⚙️ Setup Instructions
+
 
 
